@@ -1,0 +1,257 @@
+*{
+    box-sizing: border-box;
+    list-style: none;
+}
+
+.container1{
+    background-image: url(https://cdn.pixabay.com/photo/2014/08/01/15/51/city-407703_960_720.jpg);
+    background-size: 100% 500px;
+    height: 500px;
+    width: 100%;
+    text-align: center;
+    padding: 20px;
+}
+
+
+.container1 h1{
+    font-size: 55px;
+    margin-top: 20px;
+}
+.container2{
+    background-color: rgb(209, 203, 203);
+    padding: 25px;
+    text-align: center;
+    
+}
+.container2 h1{
+    text-decoration: underline;
+    color:steelblue;
+}
+.container2 p{
+    font-size: 20px;
+    margin-left: 35px;
+    margin-right: 35px;
+    margin-top: 25px;
+}
+.spc{
+    text-align: center;
+    margin-top: 25px;
+    margin-bottom: 25px;
+    color: rgb(24, 66, 100);
+    text-decoration: underline;
+}
+.flex-box{
+    display: flex;
+    justify-content: space-between;
+}
+#box1{
+   background-image: url(https://cdn.pixabay.com/photo/2014/05/02/23/52/castle-336498__340.jpg);
+   background-size: 300px 350px;
+   height: 350px;
+   width: 300px;
+   border-radius: 20px;
+   text-align: center;
+
+}
+.box a{
+    text-decoration: none;
+    color: black;
+    text-align: center;
+}
+.box a:hover{
+    zoom: 150%;
+}
+#box2{
+    background-image: url(https://cdn.pixabay.com/photo/2016/08/23/12/05/samford-hall-1614183__340.jpg);
+    background-size: 300px 350px;
+    height: 350px;
+    width: 300px;
+    border-radius: 20px;
+ }
+ #box3{
+    background-image: url(https://cdn.pixabay.com/photo/2016/08/19/21/05/howard-university-1606263__340.jpg);
+    background-size: 300px 350px;
+    height: 350px;
+    width: 300px;
+    border-radius: 20px;
+ }
+ #box4{
+    background-image: url(https://cdn.pixabay.com/photo/2019/12/29/13/14/college-4727066__340.jpg);
+    background-size: 300px 350px;
+    height: 350px;
+    width: 300px;
+    border-radius: 20px;
+ }
+ .flexbox2{
+     display: flex;
+    
+
+ }
+ .container3{
+    background-color: rgb(243, 233, 233);
+    padding: 15px;
+    margin-top: 55px;
+    text-align: center;
+    text-decoration: underline;
+ }
+ #flex1{
+     background-color:rgb(126, 126, 248) ;
+     background-size: 250px 280px;
+     border-radius: 15px;
+     margin-left: 10px;
+     text-align: center;
+     color: white;
+     font-weight: bolder;
+     padding: 25px;
+ }
+ .flexbox2{
+    justify-content: center;
+    margin-top: 45px;
+ }
+ #flex2{
+    background-color:rgb(126, 126, 248) ;
+    background-size: 250px 280px;
+    border-radius: 15px;
+     margin-left: 50px;
+     text-align: center;
+     color: white;
+     font-weight: bolder;
+     padding: 25px;
+}
+#flex3{
+    background-color:rgb(126, 126, 248) ;
+    background-size: 250px 280px;
+    border-radius: 15px;
+     margin-left: 50px;
+     text-align: center;
+     color: white;
+     font-weight: bolder;
+     padding: 25px;
+}
+#flex4{
+    background-color:rgb(126, 126, 248) ;
+    background-size: 250px 280px;
+    border-radius: 15px;
+     margin-left: 50px;
+     text-align: center;
+     color: white;
+     font-weight: bolder;
+     padding: 25px;
+}
+
+.row1{
+    background-color: rgb(219, 214, 214);
+     width: 420px;
+     height: 480px;
+     text-align: center;
+     border-radius: 15px;
+     padding: 20px;
+     margin-left: 800px;
+}
+.row1 p{
+    font-size: 22px;
+}
+.row2{
+    background-color: rgb(219, 214, 214);
+     width: 420px;
+     height: 480px;
+     text-align: center;
+     border-radius: 15px;
+     padding: 20px;
+     margin-left: 80px;
+}
+.row2 p{
+    font-size: 22px;
+}
+.row3{
+    background-color: rgb(219, 214, 214);
+     width: 420px;
+     height: 480px;
+     text-align: center;
+     border-radius: 15px;
+     padding: 20px;
+     margin-left: 800px;
+}
+.row3 p{
+    font-size: 22px;
+}
+.row4{
+    background-color: rgb(219, 214, 214);
+     width: 420px;
+     height: 480px;
+     text-align: center;
+     border-radius: 15px;
+     padding: 20px;
+     margin-left: 80px;
+}
+.row4 p{
+    font-size: 22px;
+}
+.container4{
+    margin-top: 50px;
+}
+.container4 h1{
+    text-align: center;
+    margin-bottom: 40px;
+    text-decoration: underline;
+}
+.flexbox7{
+    display: flex;
+    background-color: rgb(209, 203, 203) ;
+    padding: 20px;
+}
+.flexbox7 a{
+    text-decoration: none;
+    color: black;
+    font-size: 20px;
+}
+.flexbox7 a:hover{
+    color: brown;
+}
+.row6{
+    margin-left: 30px;
+}
+.row7{
+    margin-left: 30px;
+}
+footer{
+    margin-top: 50px;
+}
+.container5{
+    text-align: center;
+    padding: 40px;
+    margin-top: 35px;
+}
+.container5 a{
+    background-color: black;
+    text-decoration: none;
+    padding: 10px;
+    
+    border-radius: 10px;
+    
+}
+.container5 a:hover{
+    color: turquoise;
+}
+.container5 a i{
+    margin: 7px;
+}
+.heading{
+    margin-bottom: 20px;
+}
+.twit{
+    color: rgb(91, 191, 248);
+}
+.fb{
+    color: blue;
+}
+.insta{
+    color: #E1306C;;
+}
+.btn{
+    background-color:blueviolet;
+}
+.btn a{
+    text-decoration: none;
+    color: white;
+}    
